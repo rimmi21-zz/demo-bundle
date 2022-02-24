@@ -1,0 +1,6 @@
+code: example-widget
+titles:
+  en: Example Widget
+  it: Example Widget
+group: free
+customUi: <h2>Hello! We are learning to build and publish a Simple Bundle</h2>
